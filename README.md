@@ -100,7 +100,7 @@ Currently exploring offensive security × AI, probing systems against the **OWAS
 
 ```
 projects/
-├── kpmg-ai-threat-intel-platform/      [Internal · AI / Threat Intel]
+├── ai-threat-intel-platform/      [Internal · AI / Threat Intel]
 │   ├── Built KPMG's internal AI-powered Threat Intelligence Platform
 │   ├── Ingests feeds (VirusTotal, MISP, OTX), correlates IOCs across campaigns
 │   ├── AI-assisted attribution pipeline → actor clustering, confidence scoring
